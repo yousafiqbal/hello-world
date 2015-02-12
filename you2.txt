@@ -1,2 +1,18 @@
 Lets see whats happen now ... Trying to get this file online using local and remote system present on GitHub
 
+
+
+
+
+#### Working on Eskimo Tasks #### Dated 11-02-2015 ### By yousaf-iqbal
+
+*** Modifying you2.txt file *** (re-using (forking) yousafiqbal work into yousaf-iqbal)
+
+fork repo from yousafiqbal and changes are made on you2.txt file
+
+$ git clone https://github.com/yourUsername/yourRepo.git 
+
+
+
+
+
